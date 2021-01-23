@@ -9,3 +9,4 @@
 -Файлы с расширением .terraformrc
 -terraform.rc
 
+test new string
